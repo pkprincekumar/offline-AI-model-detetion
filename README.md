@@ -1,0 +1,1 @@
+# offline-AI-model-detetion
